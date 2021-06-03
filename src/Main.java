@@ -7,10 +7,6 @@ public class Main {
         HelloWorld helloWorld = new HelloWorld();
         helloWorld.PrintMessage();
 
-
-
-
-
     }
 }
 
