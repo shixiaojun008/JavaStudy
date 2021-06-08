@@ -19,7 +19,6 @@ public class CglibProxyExample implements MethodInterceptor {
         // CGLIB enhancer 增强类
         Enhancer enhancer = new Enhancer();
 
-
         // 设置增强类型
         enhancer.setSuperclass(cls);
 
