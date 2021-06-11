@@ -3,7 +3,7 @@ import java.util.Arrays;
 
 public class Array {
 
-    //test git update..
+    //test git update..TTT
     public void GetArrayL1() {
         int sum = 0;
         Random rand = new Random();
