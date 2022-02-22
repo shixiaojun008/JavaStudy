@@ -14,5 +14,6 @@ public class TestJdkProxy {
         //注意，此时 HelloWorld对象已经是一个代理对象，它会进入代理的逻辑方法 invoke 里
         proxy.sayHelloWorld();
 
+
     }
 }
